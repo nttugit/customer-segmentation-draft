@@ -1,0 +1,107 @@
+=== CUSTOMER SEGMENTATION INSIGHTS ===
+
+1. SEGMENT PROFILES
+
+Segment 1 (n=230):
+- Median Income: $0
+- Median Spend: $2
+- Infrequent buyers
+- Wine lovers
+
+Segment 2 (n=251):
+- Median Income: $-1
+- Median Spend: $-1
+- Frequent buyers
+- Casual drinkers
+
+Segment 3 (n=430):
+- Median Income: $-2
+- Median Spend: $-1
+- Infrequent buyers
+- Casual drinkers
+
+Segment 4 (n=729):
+- Median Income: $-0
+- Median Spend: $-1
+- Frequent buyers
+- Casual drinkers
+
+Segment 5 (n=577):
+- Median Income: $0
+- Median Spend: $-0
+- Infrequent buyers
+- Wine lovers
+
+
+2. ACTIONABLE RECOMMENDATIONS
+
+Segment 1:
+  1. Premium customer: Target with exclusive offers
+  2. Lapsed customer: Win-back campaign needed
+  3. Wine enthusiast: Cross-sell accessories
+  4. Low response likelihood (15%): Test alternative approaches
+
+Segment 2:
+  1. Value customer: Focus on price-sensitive promotions
+  2. Active buyer: Frequent communication
+  3. Low response likelihood (14%): Test alternative approaches
+
+Segment 3:
+  1. Value customer: Focus on price-sensitive promotions
+  2. Lapsed customer: Win-back campaign needed
+  3. Low response likelihood (13%): Test alternative approaches
+
+Segment 4:
+  1. Value customer: Focus on price-sensitive promotions
+  2. Active buyer: Frequent communication
+  3. Low response likelihood (14%): Test alternative approaches
+
+Segment 5:
+  1. Value customer: Focus on price-sensitive promotions
+  2. Lapsed customer: Win-back campaign needed
+  3. Wine enthusiast: Cross-sell accessories
+  4. Low response likelihood (14%): Test alternative approaches
+
+
+3. CAMPAIGN OPTIMIZATION
+
+Segment Response Potential:
+  Segment  Avg_Prob  Count  Actual_Responses  Conversion_Rate    Uplift
+Segment 1  0.154493    230                29         0.126087  0.088868
+Segment 2  0.141783    251                31         0.123506 -0.000716
+Segment 3  0.133716    430                47         0.109302 -0.057570
+Segment 4  0.138148    729                84         0.115226 -0.026335
+Segment 5  0.141282    577                65         0.112652 -0.004246
+=== CUSTOMER SEGMENTATION INSIGHTS ===
+
+1. SEGMENT PROFILES
+
+Segment 1 (n=230):
+- Median Income: $0
+- Median Spend: $2
+- Infrequent buyers
+- Wine lovers
+
+Segment 2 (n=251):
+- Median Income: $-1
+- Median Spend: $-1
+- Frequent buyers
+- Casual drinkers
+
+Segment 3 (n=430):
+- Median Income: $-2
+- Median Spend: $-1
+- Infrequent buyers
+- Casual drinkers
+
+Segment 4 (n=729):
+- Median Income: $-0
+- Median Spend: $-1
+- Frequent buyers
+- Casual drinkers
+
+Segment 5 (n=577):
+- Median Income: $0
+- Median Spend: $-0
+- Infrequent buyers
+- Wine lovers
