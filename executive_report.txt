@@ -2,33 +2,33 @@
 
 1. SEGMENT PROFILES
 
-Segment 1 (n=230):
-- Median Income: $0
-- Median Spend: $2
+Segment 1 (n=470):
+- Median Income: $5,648
+- Median Spend: $49
 - Infrequent buyers
+- Casual drinkers
+
+Segment 2 (n=581):
+- Median Income: $71,613
+- Median Spend: $776
+- Frequent buyers
 - Wine lovers
 
-Segment 2 (n=251):
-- Median Income: $-1
-- Median Spend: $-1
+Segment 3 (n=856):
+- Median Income: $46,344
+- Median Spend: $27
 - Frequent buyers
 - Casual drinkers
 
-Segment 3 (n=430):
-- Median Income: $-2
-- Median Spend: $-1
-- Infrequent buyers
-- Casual drinkers
-
-Segment 4 (n=729):
-- Median Income: $-0
-- Median Spend: $-1
+Segment 4 (n=77):
+- Median Income: $26,646
+- Median Spend: $53
 - Frequent buyers
 - Casual drinkers
 
-Segment 5 (n=577):
-- Median Income: $0
-- Median Spend: $-0
+Segment 5 (n=233):
+- Median Income: $58,138
+- Median Spend: $1,617
 - Infrequent buyers
 - Wine lovers
 
@@ -36,72 +36,72 @@ Segment 5 (n=577):
 2. ACTIONABLE RECOMMENDATIONS
 
 Segment 1:
-  1. Premium customer: Target with exclusive offers
-  2. Lapsed customer: Win-back campaign needed
-  3. Wine enthusiast: Cross-sell accessories
-  4. Low response likelihood (15%): Test alternative approaches
-
-Segment 2:
-  1. Value customer: Focus on price-sensitive promotions
-  2. Active buyer: Frequent communication
-  3. Low response likelihood (14%): Test alternative approaches
-
-Segment 3:
   1. Value customer: Focus on price-sensitive promotions
   2. Lapsed customer: Win-back campaign needed
   3. Low response likelihood (13%): Test alternative approaches
 
+Segment 2:
+  1. Premium customer: Target with exclusive offers
+  2. Active buyer: Frequent communication
+  3. Wine enthusiast: Cross-sell accessories
+  4. Low response likelihood (16%): Test alternative approaches
+
+Segment 3:
+  1. Value customer: Focus on price-sensitive promotions
+  2. Active buyer: Frequent communication
+  3. Low response likelihood (15%): Test alternative approaches
+
 Segment 4:
   1. Value customer: Focus on price-sensitive promotions
   2. Active buyer: Frequent communication
-  3. Low response likelihood (14%): Test alternative approaches
+  3. Low response likelihood (11%): Test alternative approaches
 
 Segment 5:
-  1. Value customer: Focus on price-sensitive promotions
+  1. Premium customer: Target with exclusive offers
   2. Lapsed customer: Win-back campaign needed
   3. Wine enthusiast: Cross-sell accessories
-  4. Low response likelihood (14%): Test alternative approaches
+  4. Low response likelihood (16%): Test alternative approaches
 
 
 3. CAMPAIGN OPTIMIZATION
 
 Segment Response Potential:
   Segment  Avg_Prob  Count  Actual_Responses  Conversion_Rate    Uplift
-Segment 1  0.154493    230                29         0.126087  0.088868
-Segment 2  0.141783    251                31         0.123506 -0.000716
-Segment 3  0.133716    430                47         0.109302 -0.057570
-Segment 4  0.138148    729                84         0.115226 -0.026335
-Segment 5  0.141282    577                65         0.112652 -0.004246
+Segment 1  0.132900    470                46         0.097872 -0.062524
+Segment 2  0.155321    581                76         0.130809  0.095632
+Segment 3  0.149465    856               107         0.125000  0.054322
+Segment 4  0.113274     77                 6         0.077922 -0.200968
+Segment 5  0.157859    233                31         0.133047  0.113539
 === CUSTOMER SEGMENTATION INSIGHTS ===
 
 1. SEGMENT PROFILES
 
-Segment 1 (n=230):
-- Median Income: $0
-- Median Spend: $2
+Segment 1 (n=470):
+- Median Income: $5,648
+- Median Spend: $49
 - Infrequent buyers
+- Casual drinkers
+
+Segment 2 (n=581):
+- Median Income: $71,613
+- Median Spend: $776
+- Frequent buyers
 - Wine lovers
 
-Segment 2 (n=251):
-- Median Income: $-1
-- Median Spend: $-1
+Segment 3 (n=856):
+- Median Income: $46,344
+- Median Spend: $27
 - Frequent buyers
 - Casual drinkers
 
-Segment 3 (n=430):
-- Median Income: $-2
-- Median Spend: $-1
-- Infrequent buyers
-- Casual drinkers
-
-Segment 4 (n=729):
-- Median Income: $-0
-- Median Spend: $-1
+Segment 4 (n=77):
+- Median Income: $26,646
+- Median Spend: $53
 - Frequent buyers
 - Casual drinkers
 
-Segment 5 (n=577):
-- Median Income: $0
-- Median Spend: $-0
+Segment 5 (n=233):
+- Median Income: $58,138
+- Median Spend: $1,617
 - Infrequent buyers
 - Wine lovers

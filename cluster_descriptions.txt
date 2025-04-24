@@ -1,35 +1,35 @@
 
-    Cluster 0 (n=230):
-    - Median Income: $0
-    - Median Spend: $-0
+    Cluster 0 (n=470):
+    - Median Income: $50,252
+    - Median Spend: $378
     - Key Characteristics: Low wine spenders,
-      Frequent purchasers
+      Infrequent purchasers
     
 
-    Cluster 1 (n=251):
-    - Median Income: $-0
-    - Median Spend: $-0
+    Cluster 1 (n=581):
+    - Median Income: $51,537
+    - Median Spend: $426
     - Key Characteristics: Low wine spenders,
-      Frequent purchasers
+      Infrequent purchasers
     
 
-    Cluster 2 (n=430):
-    - Median Income: $-0
-    - Median Spend: $-0
+    Cluster 2 (n=856):
+    - Median Income: $50,522
+    - Median Spend: $365
     - Key Characteristics: Low wine spenders,
-      Frequent purchasers
+      Infrequent purchasers
     
 
-    Cluster 3 (n=729):
-    - Median Income: $-0
-    - Median Spend: $-0
+    Cluster 3 (n=77):
+    - Median Income: $45,688
+    - Median Spend: $270
     - Key Characteristics: Low wine spenders,
-      Frequent purchasers
+      Infrequent purchasers
     
 
-    Cluster 4 (n=577):
-    - Median Income: $0
-    - Median Spend: $-0
+    Cluster 4 (n=233):
+    - Median Income: $54,178
+    - Median Spend: $461
     - Key Characteristics: Low wine spenders,
-      Frequent purchasers
+      Infrequent purchasers
     
